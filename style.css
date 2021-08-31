@@ -63,3 +63,9 @@ tr td:hover{
         background-color: var(--backgroundSection);
         filter: brightness(1.4);
     }
+    p {
+        padding: 1.6rem;
+        position: fixed;
+        text-align: center;
+        bottom: 0;
+    }
